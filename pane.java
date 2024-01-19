@@ -1,6 +1,3 @@
-//Program : bandhw  
-//Name: Nicholas Adams
-//Date: 9/5/23
 //Purpose: A GUI for a band sign up
 
 
